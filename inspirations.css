@@ -1,0 +1,23 @@
+<body
+    background-color: rgb(50, 50, 155);
+    color:rgb(224, 224, 245);
+    margin-bottom: 20px;
+>
+
+<img>
+    src="Beyonce-Mason-Poole-2022.jpg" 
+    .fit-picture 
+        width: 250px;
+
+</img>
+<img>
+    src="Taylor Swift, Eras Tour, 2023.jpg" 
+    .fit-picture 
+        width: 250px
+</img>
+
+<img>
+    src="Ariana Grande, 2016.jpg"
+    .fit-picture 
+        width: 250px
+</img>
